@@ -11,8 +11,8 @@
   "dependencies": {
     "@types/figlet": "^1.5.5",
     "@types/inquirer": "^9.0.3",
-    "chalk": "^5.2.0",
+    "chalk": "^4.1.2",
     "figlet": "^1.5.2",
-    "inquirer": "^9.1.5"
+    "inquirer": "^8.0.0"
   }
 }
